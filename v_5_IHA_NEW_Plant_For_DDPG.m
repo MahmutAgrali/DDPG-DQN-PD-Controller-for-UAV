@@ -1,4 +1,4 @@
-%Author : Mahmut Ağralı
+%Author : Mahmut A.
 %Code is used to train the DDPG agent
 
 clear;clc;
