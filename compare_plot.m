@@ -1,4 +1,4 @@
-%Author : Mahmut Ağralı
+%Author : Mahmut A.
 %Code is used to find compare plot for all algorithms
 
 %for compare all algorithms
