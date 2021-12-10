@@ -1,4 +1,4 @@
-%Author : Mahmut Ağralı
+%Author : Mahmut A.
 %Code is used for find the metrics for DQN algorithm
 
 Tf=10;
