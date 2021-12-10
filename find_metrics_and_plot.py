@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov 20 20:34:05 2021
 
-@author: RafadanTayfa
-"""
 
 from tkinter import filedialog 
 import tkinter as tk
@@ -17,8 +13,8 @@ import numpy as np
 # file_path_dqn = tk.filedialog.askopenfilenames()[0]
 # file_path_pd  = tk.filedialog.askopenfilenames()[0]
 
-file_path_dqn = "D:/Derse_Dair_Her_Sey/Universite/Katip_Celebi_Lisans/4_Sinif_2020_2021/2_Donem/Derin_Ogrenmeye_Giris/Homeworks/pythonProject1/internettenBuldum/results/20_11_2021-10_44_08_en_iyi_dqn/xlsx/episode_29.xlsx"
-file_path_pd  = "D:/Derse_Dair_Her_Sey/Universite/Katip_Celebi_Lisans/4_Sinif_2020_2021/2_Donem/Derin_Ogrenmeye_Giris/Homeworks/pythonProject1/internettenBuldum/results/21_11_2021-00_20_29_pd/xlsx/pd_xlsx.xlsx"
+file_path_dqn = "episode_29.xlsx"
+file_path_pd  = "pd_xlsx.xlsx"
 
 df_dqn = pd.read_excel(file_path_dqn,header=None)
 df_pd  = pd.read_excel(file_path_pd,header=None)
